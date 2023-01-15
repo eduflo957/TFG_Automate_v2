@@ -690,3 +690,118 @@ WebDriver BiDi listening on ws://127.0.0.1:55287
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileLyGOJt\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:55287/devtools/browser/1f24d0cb-139b-435f-b109-852a44ee1b6e
 JavaScript error: https://slider.kz/media/js/main.js?62403, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673825194935	Marionette	INFO	Stopped listening on port 55296
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilerMOWOP"
+1673824801063	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824801070	Marionette	INFO	Listening on port 60661
+Read port: 60661
+WebDriver BiDi listening on ws://127.0.0.1:60647
+1673824801317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilerMOWOP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60647/devtools/browser/92b2d317-aed2-491a-8fcf-3fa298d58663
+JavaScript error: https://slider.kz/media/js/main.js?25660, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673824844143	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+[2023-01-15T23:20:45Z ERROR mp4parse] Found 2 nul bytes in "\0\0"
+console.error: "Unable to find target with innerWindowId:6442450957"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450970/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450968/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:6442450966"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://assets.adobedtm.com/0681c221600c/d0943e7fed9e/launch-90f4fb204f3b.min.js, line 7: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673824960163	Marionette	INFO	Stopped listening on port 60661
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673824973888	geckodriver	INFO	Listening on 127.0.0.1:49655
+1673824976989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49656" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyUcR8a"
+1673824977555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824977561	Marionette	INFO	Listening on port 54581
+Read port: 54581
+WebDriver BiDi listening on ws://127.0.0.1:49656
+1673824977772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileyUcR8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49656/devtools/browser/fc61681e-69fa-4a03-be05-b4b3f1ff8165
+JavaScript error: https://slider.kz/media/js/main.js?15440, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673825195840	Marionette	INFO	Stopped listening on port 54581
+Dynamically enable window occlusion 1
+1673825202229	geckodriver	INFO	Listening on 127.0.0.1:64756
+1673825205289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64757" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileRLM2Jt"
+1673825205770	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673825205775	Marionette	INFO	Listening on port 64774
+Read port: 64774
+WebDriver BiDi listening on ws://127.0.0.1:64757
+1673825205988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileRLM2Jt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64757/devtools/browser/5b228b1e-c3a6-4634-b7a0-fcd55a593a6a
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673825437887	geckodriver	INFO	Listening on 127.0.0.1:56957
+1673825440969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilex9YXOH"
+1673825441539	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673825441545	Marionette	INFO	Listening on port 56972
+Read port: 56972
+WebDriver BiDi listening on ws://127.0.0.1:56958
+1673825441753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilex9YXOH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56958/devtools/browser/aa8935f0-8fba-4612-a61f-c0e325378557
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
