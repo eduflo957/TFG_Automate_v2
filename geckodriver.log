@@ -1,0 +1,692 @@
+1673821315612	geckodriver	INFO	Listening on 127.0.0.1:64867
+1673821318756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "64868" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewaBIg0"
+1673821319462	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673821319469	Marionette	INFO	Listening on port 64883
+Read port: 64883
+WebDriver BiDi listening on ws://127.0.0.1:64868
+1673821319689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilewaBIg0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64868/devtools/browser/b650b2a4-2803-46cb-94b3-87e1dbd30b92
+1673821989942	geckodriver	INFO	Listening on 127.0.0.1:61741
+1673821993092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61742" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilemjtVuG"
+1673821993880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673821993887	Marionette	INFO	Listening on port 61749
+Read port: 61749
+WebDriver BiDi listening on ws://127.0.0.1:61742
+1673821994150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilemjtVuG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61742/devtools/browser/2024a26d-9684-44f0-ae21-0af59dbf1cbc
+1673822306529	geckodriver	INFO	Listening on 127.0.0.1:50585
+1673822309676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50586" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5l2TDM"
+1673822310269	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673822310274	Marionette	INFO	Listening on port 50593
+Read port: 50593
+WebDriver BiDi listening on ws://127.0.0.1:50586
+1673822310485	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofile5l2TDM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50586/devtools/browser/066a6d64-f8e6-4e67-938f-4343166f59af
+JavaScript error: https://slider.kz/media/js/main.js?89258, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673822393764	geckodriver	INFO	Listening on 127.0.0.1:59921
+1673822396882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "59922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilemtSIgH"
+1673822397421	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673822397426	Marionette	INFO	Listening on port 59930
+Read port: 59930
+WebDriver BiDi listening on ws://127.0.0.1:59922
+1673822397617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilemtSIgH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59922/devtools/browser/7185d98f-bcf1-473b-8a0b-8b092dc5c584
+JavaScript error: https://slider.kz/media/js/main.js?71508, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673822462457	geckodriver	INFO	Listening on 127.0.0.1:56839
+1673822465559	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "56840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQyz0aP"
+1673822466187	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673822466194	Marionette	INFO	Listening on port 56849
+Read port: 56849
+WebDriver BiDi listening on ws://127.0.0.1:56840
+1673822466412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileQyz0aP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56840/devtools/browser/5fe0c4dc-2da9-4c9f-b5dd-375ad3c1ced7
+JavaScript error: https://slider.kz/media/js/main.js?84973, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673822530586	Marionette	INFO	Stopped listening on port 56849
+Dynamically enable window occlusion 1
+1673822542078	geckodriver	INFO	Listening on 127.0.0.1:61781
+1673822545168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "61782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileBO4ANS"
+1673822545568	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673822545573	Marionette	INFO	Listening on port 61802
+Read port: 61802
+WebDriver BiDi listening on ws://127.0.0.1:61782
+1673822545765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileBO4ANS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61782/devtools/browser/120f4d88-3d90-4f83-a0db-ff7c5dd3cfca
+JavaScript error: https://slider.kz/media/js/main.js?24170, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673823387551	Marionette	INFO	Stopped listening on port 61802
+Dynamically enable window occlusion 1
+remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOvbewY"
+1673823368212	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673823368217	Marionette	INFO	Listening on port 55570
+Read port: 55570
+WebDriver BiDi listening on ws://127.0.0.1:55556
+1673823368432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileOvbewY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55556/devtools/browser/22b96e4c-f787-45dd-a150-124c4ab81f37
+JavaScript error: https://slider.kz/media/js/main.js?54778, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673823390757	Marionette	INFO	Stopped listening on port 55570
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673823417093	geckodriver	INFO	Listening on 127.0.0.1:51631
+1673823420181	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51632" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileHxKzYM"
+1673823420811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673823420818	Marionette	INFO	Listening on port 51639
+Read port: 51639
+WebDriver BiDi listening on ws://127.0.0.1:51632
+1673823421061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileHxKzYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51632/devtools/browser/74f804cc-de47-4577-88d6-3b3c026aaaab
+JavaScript error: https://slider.kz/media/js/main.js?44075, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1673823743274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "50318" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilezwfMOf"
+1673823743943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673823743949	Marionette	INFO	Listening on port 50326
+Read port: 50326
+WebDriver BiDi listening on ws://127.0.0.1:50318
+1673823744194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilezwfMOf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50318/devtools/browser/e72f301a-5e01-4e1d-af97-5cbe54aa0567
+JavaScript error: https://slider.kz/media/js/main.js?54685, 1673823751420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox DevelJavaScript error: https://slider.kz/media/js/main.js?74434, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673824320680	Marionette	INFO	Stopped listening on port 50326
+Dynamically enable window occlusion 1
+BiDi listening on ws://127.0.0.1:50376
+1673823752204	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofile6Xj7YF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50376/devtools/browser/e1b3a40b-4d60-4385-bf82-5d3c05fc42cf
+1673824117719	Marionette	INFO	Stopped listening on port 50396
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673824319277	geckodriver	INFO	Listening on 127.0.0.1:53605
+1673824322310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53606" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileeusqUK"
+1673824322827	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824322832	Marionette	INFO	Listening on port 53623
+Read port: 53623
+WebDriver BiDi listening on ws://127.0.0.1:53606
+1673824323016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileeusqUK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53606/devtools/browser/7bd99321-3539-4684-9d66-e5b8b5e12095
+JavaScript error: https://slider.kz/media/js/main.js?61545, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673824342575	geckodriver	INFO	Listening on 127.0.0.1:53695
+1673824345684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53696" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileAKJeUp"
+1673824346137	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824346142	Marionette	INFO	Listening on port 53712
+Read port: 53712
+WebDriver BiDi listening on ws://127.0.0.1:53696
+1673824346377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileAKJeUp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53696/devtools/browser/2b92e91e-de60-4808-b9b9-b589220932ac
+JavaScript error: https://slider.kz/media/js/main.js?50175, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673824357331	Marionette	INFO	Stopped listening on port 53712
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673824369873	geckodriver	INFO	Listening on 127.0.0.1:53784
+1673824372968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53785" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofile7A4dJc"
+1673824373425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824373431	Marionette	INFO	Listening on port 53798
+Read port: 53798
+WebDriver BiDi listening on ws://127.0.0.1:53785
+1673824373681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofile7A4dJc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53785/devtools/browser/914f2cfe-bb90-4af1-a25c-2f677cc35a1a
+JavaScript error: https://slider.kz/media/js/main.js?82194, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673824437084	Marionette	INFO	Stopped listening on port 53798
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673824459690	geckodriver	INFO	Listening on 127.0.0.1:49474
+1673824462750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "49475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofiledHN55V"
+1673824463136	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824463141	Marionette	INFO	Listening on port 49486
+Read port: 49486
+WebDriver BiDi listening on ws://127.0.0.1:49475
+1673824463349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofiledHN55V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49475/devtools/browser/779656fe-e263-4fb1-b264-fbb92ad7cbf0
+JavaScript error: https://slider.kz/media/js/main.js?24751, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: https://slider.kz/media/js/main.js?53708, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673824563931	Marionette	INFO	Stopped listening on port 49486
+Dynamically enable window occlusion 1
+1673824579121	geckodriver	INFO	Listening on 127.0.0.1:60767
+1673824582176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "60768" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilebLgwCN"
+1673824582701	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824582706	Marionette	INFO	Listening on port 60782
+Read port: 60782
+WebDriver BiDi listening on ws://127.0.0.1:60768
+1673824582921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofilebLgwCN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60768/devtools/browser/7dca37a6-345b-4b19-bfda-328b90a3d36c
+JavaScript error: https://slider.kz/media/js/main.js?15657, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1673824729553	Marionette	INFO	Stopped listening on port 60782
+Dynamically enable window occlusion 1
+remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileDWhgyU"
+1673824710472	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824710477	Marionette	INFO	Listening on port 55202
+Read port: 55202
+WebDriver BiDi listening on ws://127.0.0.1:55191
+1673824710678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileDWhgyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55191/devtools/browser/6a1148e2-2f47-40df-9c78-dfdc4d71fcb7
+JavaScript error: https://slider.kz/media/js/main.js?74505, line 131: TypeError: can't access property "artist", data.similarartists is undefined
+1673824730432	Marionette	INFO	Stopped listening on port 55202
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673824742584	geckodriver	INFO	Listening on 127.0.0.1:55286
+1673824745693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55287" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileLyGOJt"
+1673824746142	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1673824746148	Marionette	INFO	Listening on port 55296
+Read port: 55296
+WebDriver BiDi listening on ws://127.0.0.1:55287
+1673824746356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale es-ES: quickactions-bookmarks2
+[fluent] Missing message in locale es-ES: quickactions-downloads2
+[fluent] Missing message in locale es-ES: quickactions-inspector2
+[fluent] Missing message in locale es-ES: quickactions-logins2
+[fluent] Missing message in locale es-ES: quickactions-print2
+[fluent] Missing message in locale es-ES: quickactions-private2
+[fluent] Missing message in locale es-ES: quickactions-screenshot3
+[fluent] Missing message in locale es-ES: quickactions-settings2
+[fluent] Missing message in locale es-ES: quickactions-viewsource2
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\EDUGUA~1\\AppData\\Local\\Temp\\rust_mozprofileLyGOJt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55287/devtools/browser/1f24d0cb-139b-435f-b109-852a44ee1b6e
+JavaScript error: https://slider.kz/media/js/main.js?62403, line 131: TypeError: can't access property "artist", data.similarartists is undefined
