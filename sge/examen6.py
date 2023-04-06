@@ -27,5 +27,3 @@ print(b.get_b())
 # Pregunta de examen:
 print(b.get_a()) #Si puede porque se heredan los métodos
 #Coge el elemento a de la clase B
-
-# Los super no entran

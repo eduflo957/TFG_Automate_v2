@@ -14,4 +14,5 @@ print(a)
 print(b)
 print(a.b)
 
-####### Una clase siempre puede tener un objeto de otra clase
+#Una clase siempre puede tener
+#un objeto de otra clase

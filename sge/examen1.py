@@ -13,4 +13,4 @@ print(a==b)
 print(a==c)
 # False, porque los objetos son distintos
 print(a==d)
-# True, los dos señalan a la misma ud de memoria a
+# True, los dos señalan a la misma ud de memoria

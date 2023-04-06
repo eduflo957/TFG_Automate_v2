@@ -14,8 +14,9 @@ b=B()
 print(isinstance(a, A))
 print(isinstance(b, B))
 
-# Los elementos hijos con instancias de sus padres,
-# pero no viceversa
+# Los elementos hijos con instancias
+# de sus padres, pero no viceversa
 print(isinstance(a, B))
 print(isinstance(b, A))
-# Llamamos instancia de una clase a todos los objetos de una clase
+# Llamamos instancia de una clase
+# a todos los objetos de una clase
